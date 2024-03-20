@@ -18,9 +18,9 @@ Data Analysis and Modeling: This includes data analysis tasks such as identifyin
 
 # Installation and Setup
 To set up the project locally, follow these steps:
- • Clone the repository: https://github.com/j-fousse/HR_Analytics_2024
- • Navigate to the project directory: cd your-repository
- • Download the HR Analytics dataset and place it in the your-directory.
+ - Clone the repository: https://github.com/j-fousse/HR_Analytics_2024
+ - Navigate to the project directory: cd your-repository
+ - Download the HR Analytics dataset and place it in the your-directory.
 
 # Dataset
 The HR Analytics dataset contains various columns related to employee information such as age, gender, education, job role, salary, and satisfaction levels.
@@ -29,9 +29,9 @@ This Dataset can be obtained from the following link: https://www.kaggle.com/dat
 
 # EDA/Cleaning
 During the exploratory data analysis (EDA) and cleaning process, the following steps were undertaken:
-• Data types were converted to ensure consistency and compatibility across the dataset.
-• 57 rows containing NaN values and 10 duplicate rows were removed to maintain data integrity and accuracy.
-• The median was chosen as a robust metric for central tendency measures, ensuring resilience against outliers and extreme values.
+- Data types were converted to ensure consistency and compatibility across the dataset.
+- 57 rows containing NaN values and 10 duplicate rows were removed to maintain data integrity and accuracy.
+- The median was chosen as a robust metric for central tendency measures, ensuring resilience against outliers and extreme values.
 
 # Used libraries and modules:
 - pandas
@@ -49,14 +49,14 @@ During the exploratory data analysis (EDA) and cleaning process, the following s
 
 # Suggestions to mitigate future attrition
 1. Set incentives for younger employees
-    • such as increasing vacation days in the initial years; extending vesting periods for stock options
-    • also consider older applicants
+    - such as increasing vacation days in the initial years; extending vesting periods for stock options
+    - also consider older applicants
 2. Improve Work-Life Balance
-    • Reduce overtime or offer compensatory time off for better work-life balance  
+    - Reduce overtime or offer compensatory time off for better work-life balance  
 3. Enhance Job Involvement
-    • Delegate individual responsibility to employees
-    • Clarify the overall purpose of less relevant tasks
-    • Provide concrete recognition
+    - Delegate individual responsibility to employees
+    - Clarify the overall purpose of less relevant tasks
+    - Provide concrete recognition
 4. Survey Sales Representatives and Laboratory Technicians to identify specific issues
 5. Pay employees appropriate salaries
 
