@@ -3,7 +3,9 @@ This HR Analytics project aims to analyze various aspects of human resources wit
 
 # Team Members
 [Johannes Fousse]: [GitHub Profile: j-fousse]
+
 [Pelin Öztürk]: [GitHub Profile. p-ozturk]
+
 [Simon Bolenz]: [GitHub SimonBalangan]
 
 # Jupyter Notebooks
@@ -32,11 +34,11 @@ During the exploratory data analysis (EDA) and cleaning process, the following s
 • The median was chosen as a robust metric for central tendency measures, ensuring resilience against outliers and extreme values.
 
 # Used libraries and modules:
-• pandas
-• numpy
-• matplotlip
-• seaborn
-• statsmodels
+- pandas
+- numpy
+- matplotlip
+- seaborn
+- statsmodels
 
 # Key Results
 1. Younger and less experienced employees exhibit a attrition rate above average; from age 36 on the predicted attrition probability is lower than the average attrition rate.
