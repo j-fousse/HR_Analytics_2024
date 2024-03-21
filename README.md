@@ -1,5 +1,5 @@
 # Attrition Analysis
-This HR Analytics project aims to analyze various aspects of human resources within an organization to improve employee performance, job satisfaction, and employee loyalty. Further the overall goal is the prediction of future attrition based on the given data. The dataset used for analysis contains detailed information about employees, including demographic details, job-related factors, and assessments.
+This HR Analytics project aims to analyze various aspects of human resources within an organization from the pharmaceutical industry to improve employee performance, job satisfaction, and employee loyalty. Further the overall goal is the prediction of future attrition based on the given data. The dataset used for analysis contains detailed information about employees including demographic details, job-related factors and assessments.
 
 # Team Members
 Johannes Fousse: [GitHub](https://github.com/j-fousse)
@@ -9,12 +9,11 @@ Pelin Öztürk: [GitHub](https://github.com/p-ozturk)
 Simon Bolenz: [GitHub](https://github.com/SimonBalangan)
 
 # Jupyter Notebooks
-This project consists one Jupyter Notebook, for serving all purposes like:
-Data Cleaning and Preparation: This focuses on data cleaning and preparation tasks. It includes handling missing 
-values, encoding categorical variables, and scaling numerical features.
-Exploratory Data Analysis (EDA): To explore the dataset to gain insights into various HR aspects of the company.
-
-Data Analysis and Modeling: This includes data analysis tasks such as identifying measures to increase job satisfaction and performance ratings, predicting future attrition, and conducting hypothesis tests.
+This project consists of one Jupyter Notebooks for serving different purposes:
+- Data Cleaning and Preparation: This focuses on data cleaning and preparation tasks. It includes handling missing 
+values, encoding categorical variables and removing duplicates.
+- Exploratory Data Analysis (EDA): To explore the dataset to gain insights into various HR aspects of the company.
+- Data Analysis and Modeling: This includes data analysis tasks such as identifying measures to increase job satisfaction and performance ratings and predicting future attrition.
 
 # Installation and Setup
 To set up the project locally, follow these steps:
@@ -25,7 +24,7 @@ To set up the project locally, follow these steps:
 # Dataset
 The HR Analytics dataset contains various columns related to employee information such as age, gender, education, job role, salary, and satisfaction levels.
 
-This Dataset can be obtained from the following link: https://www.kaggle.com/datasets/saadharoon27/hr-analytics-dataset?resource=download
+This Dataset can be obtained from this [link](https://www.kaggle.com/datasets/saadharoon27/hr-analytics-dataset?resource=download).
 
 # EDA/Cleaning
 During the exploratory data analysis (EDA) and cleaning process, the following steps were undertaken:
