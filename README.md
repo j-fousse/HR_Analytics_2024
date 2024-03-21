@@ -41,10 +41,14 @@ During the exploratory data analysis (EDA) and cleaning process, the following s
 
 # Key Results
 1. Younger and less experienced employees exhibit a attrition rate above average; from age 36 on the predicted attrition probability is lower than the average attrition rate.
-2. Employees who work overtime and/or have a bad work life balance exhibit a attrition rate way above the average.
-3. Employees with a low job involvement exhibit a attrion rate almost double the average attrion rate.
-4. Certain job roles such as Sales Representatives and Laboratory Technicians exhibit a attrition rate way above the average.
-5. The predicted attrition probability decreases as salary increases. 
+
+![Datenanalyse5](https://github.com/j-fousse/HR_Analytics_2024/assets/162298231/e6e8e919-a475-4f83-b041-86a137b7c0b0)
+
+   
+3. Employees who work overtime and/or have a bad work life balance exhibit a attrition rate way above the average.
+4. Employees with a low job involvement exhibit a attrion rate almost double the average attrion rate.
+5. Certain job roles such as Sales Representatives and Laboratory Technicians exhibit a attrition rate way above the average.
+6. The predicted attrition probability decreases as salary increases. 
 
 # Suggestions to mitigate future attrition
 1. Set incentives for younger employees
