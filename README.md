@@ -2,11 +2,11 @@
 This HR Analytics project aims to analyze various aspects of human resources within an organization to improve employee performance, job satisfaction, and employee loyalty. Further the overall goal is the prediction of future attrition based on the given data. The dataset used for analysis contains detailed information about employees, including demographic details, job-related factors, and assessments.
 
 # Team Members
-[Johannes Fousse]: [GitHub Profile: https://github.com/j-fousse]
+Johannes Fousse: [GitHub](https://github.com/j-fousse)
 
-[Pelin Öztürk]: [GitHub Profile: https://github.com/p-ozturk]
+Pelin Öztürk: [GitHub](https://github.com/p-ozturk)
 
-[Simon Bolenz]: [GitHub Profile: https://github.com/SimonBalangan]
+Simon Bolenz: [GitHub](https://github.com/SimonBalangan)
 
 # Jupyter Notebooks
 This project consists one Jupyter Notebook, for serving all purposes like:
